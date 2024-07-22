@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="ticketMaster_key">UwuGzhaPajIe5EyJlTEQN3QrHgax4lsI</string>
+    <string name="ticketMaster_secret">E3Iurfe8NiLSOZxP</string>
+    <string name="ticketMaster_url">https://app.ticketmaster.com/</string>
+    <string name="taylorSwift_id">K8vZ9175Tr0</string>
+    <string name="channel_id">LowPriceAlert</string>
+
+    <string name="viaggo_url">https://account.viagogo.com/</string>
+</resources>
